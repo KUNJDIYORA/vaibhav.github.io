@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: rgb(0, 166, 255);
+}
+
+ul b{
+    font-size: 0.55cm;
+}
+
+img{
+    padding-top: 40px;
+    padding-left: 50px;
+}
+
+ul{
+   font-size: larger;
+   list-style: none;
+   position: relative;
+   padding-left: 50px;
+   padding-top: 20px;
+
+}
+
+a { 
+    margin-top: 100px;
+    font-style: italic;
+    font-size: larger;
+    color: crimson;
+    padding-left: 50px;
+}
+
+a:hover{
+    color: blueviolet;
+}
