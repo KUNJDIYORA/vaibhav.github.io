@@ -22,6 +22,11 @@ ul{
 
 }
 
+ul li:hover{
+   color: crimson;
+}
+
+
 a { 
     margin-top: 100px;
     font-style: italic;
