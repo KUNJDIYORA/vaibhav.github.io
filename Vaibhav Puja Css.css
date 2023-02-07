@@ -4,26 +4,36 @@
     color: rgb(0, 166, 255);
 }
 
-li:hover{
-    color:crimson;
+ul li:hover{
+    border: 1px solid rgb(0, 166, 255);
+    color:chartreuse;
 }
 
-ul ul b{
+ul li{
+    backgroung-color:black;
+    margin: 10px;
+    height: 30px;
+    width: 207px;
+    border: 1px solid  chartreuse;
+    line-height: normal;
+}
 
-    color: black;
+ul b{
+    height: 100px;
+    width: 200px;
+    color: crimson;
     list-style: none;
     font-size: larger;
 }
 
 ul {
-    font-size: 1.3cm;
-    padding-left: 70px;
+    font-size: 0.7cm;
+    padding-left: 60px;
     list-style:decimal;
 
 }
  
 ul a{ 
-    
     list-style: none;
     font-size: larger;  
     padding-left: 10px;
