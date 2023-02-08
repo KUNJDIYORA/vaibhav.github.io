@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 10px;
+    color: rgb(0, 166, 255);
+}
+
+ul {
+    font-size: 1.2cm;
+    padding-left: 60px;
+    list-style:decimal;
+
+}
+ 
+
+ul li:hover{
+    color:chartreuse;
+}
+
+ul b{
+    height: 100px;
+    width: 200px;
+    color: crimson;
+    list-style: none;
+    font-size: larger;
+}
+
+
+ul a{ 
+    list-style: none;
+    font-size: larger;  
+    padding-left: 10px;
+    color: crimson;
+}
+
+ul a:hover{
+    color: chartreuse;
+}
